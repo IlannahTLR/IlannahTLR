@@ -1,13 +1,14 @@
-<h1>##Olá, eu sou a Ilannah Taggyn, trabalho com front-end e web design 👋<h1>
+<h1>Olá, eu sou a Ilannah Taggyn, trabalho com front-end e web design 👋</h1>
 
-<h2>
+ 
 Olá, eu sou Ilannah Taggyn, uma programadora Front-End e Web Designer de 33 anos, residindo em Portugal. Minha jornada na tecnologia começou em 2009 com um curso técnico em Tecnologias da Informação e Comunicação, o que despertou minha paixão por este campo. Desde então, venho aprimorando minhas habilidades com cursos como Web Design, Marketing para Redes Sociais, WordPress, UI/UX Design, Front-End, e PHP.
 
 Possuo certificações em Cybersecurity Awareness e Fundamentos em Informática pela IBSEC, e atualmente estou cursando Sistemas de Informação na Faculdade Descomplica. Meu objetivo profissional é participar de projetos inovadores como Desenvolvedora Front-End, Criadora de Sites, Desenvolvedora de Sistemas, Construção de Sites em WordPress, e Implementação de Lojas Online em WooCommerce.
 
 Minhas habilidades incluem WordPress, WooCommerce, Bootstrap, CKeditor, CMS, Photoshop, Illustrator, Adobe XD, Figma, CSS3, HTML5, MySQL, Banco de Dados, PHP e JavaScript. Estou entusiasmada com futuras oportunidades e ansiosa para contribuir em projetos desafiadores. Vamos conectar e explorar possíveis colaborações!
-<h2>
 
+
+##
 
 <h3>👨‍💻Coisas legais em que estou trabalhando</h3>
 
